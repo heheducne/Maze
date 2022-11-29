@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1618988670 source:f:\code\bai tap maze\main.cpp
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	<stack>
+	<winbgim.h>
+	<vector>
+
+1619089472 source:d:\code\bai tap maze\main.cpp
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	<stack>
+	<winbgim.h>
+	<vector>
+
+1667029080 source:e:\onedrive_2022-10-29\bai tap maze\main.cpp
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	<stack>
+	<winbgim.h>
+	<vector>
+
